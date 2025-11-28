@@ -2,7 +2,9 @@
 <h3 align="center">💻 Java Backend Developer | Spring Boot | Microservices | AWS | DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAi8C5W/giphy.gif" width="150"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manishaSurya&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
+  </a>
 </p>
 
 ---
