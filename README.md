@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 About Me
-- 🔹 Passionate **Java Backend Developer** building scalable, secure applications  
-- 🔹 Experienced in **Spring Boot, Microservices, REST APIs, AWS, Elasticsearch**  
-- 🔹 Currently learning **System Design, Kubernetes, Advanced DSA**  
+- 🔹 Passionate **Java Full Stack Developer** building scalable, secure applications  
+- 🔹 Experienced in **Spring Boot, Microservices, REST APIs, AWS,Azure devOPs **  
+- 🔹 Currently learning **System Design, and  Advanced DSA**  
 - 🔹 Open-source contributor & lifelong learner ✨  
 - 📫 Reach me at: **manishasuryawanshi642@gmail.com**
 
