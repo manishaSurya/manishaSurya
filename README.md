@@ -14,16 +14,10 @@
 - 🔹 Experienced in **Spring Boot, Microservices, REST APIs, AWS, Elasticsearch**  
 - 🔹 Currently learning **System Design, Kubernetes, Advanced DSA**  
 - 🔹 Open-source contributor & lifelong learner ✨  
-- 📫 Reach me at: **manishasuryawanshi@gmail.com**
+- 📫 Reach me at: **manishasuryawanshi642@gmail.com**
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=manishaSurya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
----
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
@@ -53,6 +47,7 @@
 ---
 
 ## 📂 Featured Projects
+
 - 🔐 **Ambassador Banking App** – Microservices, JWT, OTP, Digital Signing  
 - 🗃️ **IDOCX System** – Elasticsearch, MongoDB, high-performance search  
 - 🎮 Snake Game • 🧩 Sudoku Solver • 📚 Library Management System  
@@ -61,9 +56,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/manisha-surya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manisha-suryawanshi-61273a192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/manishaSurya" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:manishasuryawanshi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:manishasuryawanshi642@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
