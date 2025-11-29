@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manisha Suryawanshi</h1>
-<h3 align="center">💻 Java Backend Developer | Spring Boot | Microservices | AWS | DevOps Enthusiast</h3>
+<h3 align="center">💻 Java Full Stack Developer | Software Developer | Spring Boot | Microservices | AWS | Azure |DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
